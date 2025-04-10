@@ -1,6 +1,6 @@
 # CS480 Project Notebooks
 
-The following two notebboks implemenmt the CNNs for counterfeit Pokemon card detetction for the CS 480 project by Bahaa Desoky (b2desoky@uwaterloo.ca)
+The following two notebooks implement the CNNs for counterfeit Pokemon card detection for the CS 480 project by Bahaa Desoky (b2desoky@uwaterloo.ca)
 
 - project_b2desoky.ipynb: The custom CNN model
 - project_b2desoky_pretrained.ipynb: The pretrained CNN model
